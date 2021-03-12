@@ -1,5 +1,5 @@
 {
-  "name": "pure-store",
+  "name": "@climapulse/pure-store",
   "version": "1.2.0",
   "description": "A tiny immutable store with type safety.",
   "main": "dist/index.js",
